@@ -1,9 +1,9 @@
 _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: en
-uuid: 44d3e490-9a4b-4cd6-9758-70e90f2dd274
-name: Training
-mail: test@gmail.com
+uuid: 7e829abd-494d-4f5c-9a44-a39808c93716
+name: admin
+mail: admin@example.com
 slogan: ''
 page:
   403: ''
